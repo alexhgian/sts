@@ -1,0 +1,22 @@
+{
+  "name": "denwaify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexhgian/sts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexhgian/sts/issues"
+  },
+  "homepage": "https://github.com/alexhgian/sts#readme",
+  "dependencies": {
+    "@google-cloud/text-to-speech": "^0.1.0"
+  }
+}
